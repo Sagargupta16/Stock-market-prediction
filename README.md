@@ -95,7 +95,7 @@ The model evaluates performance using Mean Squared Error (MSE) for each stock:
 data_aapl, scaler_aapl = fetch_preprocess('AAPL', '2020-01-01', '2023-01-01')
 ```
 
-2. **Model Training**:
+1. **Model Training**:
 
 ```python
 # Train the LSTM model
@@ -103,7 +103,7 @@ model = LSTM()
 # Training loop with 150 epochs
 ```
 
-3. **Prediction and Evaluation**:
+1. **Prediction and Evaluation**:
 
 ```python
 # Evaluate model performance
