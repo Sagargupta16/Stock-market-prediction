@@ -1,4 +1,4 @@
-yfinance==0.2.66
+yfinance==1.0
 pandas==2.3.3
 torch==2.9.1
 scikit-learn==1.7.2
