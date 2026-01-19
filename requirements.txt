@@ -3,5 +3,5 @@ pandas==2.3.3
 torch==2.9.1
 scikit-learn==1.8.0
 matplotlib==3.10.7
-numpy==2.4.0
+numpy==2.4.1
 jupyter==1.1.1
